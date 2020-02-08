@@ -15,4 +15,8 @@
  ### Education
  * Modern HTML & CSS From The Beginning by Brad Traversy & Udemy
  * Modern JavaScript From The Beginning by Brad Traversy & Udemy
- 
+
+-------
+### Code examples: [GitHub](http://github.com/mrJozhkinKot)
+-------
+### English: Level B1
