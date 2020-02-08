@@ -6,12 +6,13 @@
 ### Contact Info: scrambler88@mail.ru
 -------
 
- 
- ### Skills:
+## Skills:
  * HTML/CSS
  * SASS
  * Basic JS
  * GitHub
- --------
 
- ### English: Level B1
+ ### Education
+ * Modern HTML & CSS From The Beginning by Brad Traversy & Udemy
+ * Modern JavaScript From The Beginning by Brad Traversy & Udemy
+ 
