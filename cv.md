@@ -1,5 +1,5 @@
 # Julia Shchuklina
-### FrondEnd Developer
+### Frontend Developer
 ----------
 
 ![GitHub Logo](https://avatars0.githubusercontent.com/u/52234801?s=400&u=bbeaef9b080c3795f421e83596f3ed099a126f77&v=4)
